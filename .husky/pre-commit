@@ -32,7 +32,7 @@ npm run check-types ||
 )
 
 # If everything passes... Now we can build
-echo "🔥🚀 ${BOLD}All passed... Now we can build.${NC} 🚀🔥"
+echo "🚀 ${BOLD}All passed... Trying to  build before commiting.${NC} 🚀"
 
 npm run build ||
 (
